@@ -1,6 +1,6 @@
 ## 👋 Hi, you're at the page of @Strategie-Digitali
 
-- 👀 Here you can find:
+### 👀 Here you can find:
 + Scripts
 + Plugin documentation
 + ..?
