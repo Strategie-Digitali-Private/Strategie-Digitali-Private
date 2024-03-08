@@ -2,7 +2,7 @@
 
 ### 👀 Here you can find:
 + Scripts
-+ Plugin documentation
++ [Plugin documentation] (https://github.com/Strategie-Digitali/Revit-Plugin)
 + ..?
 
 <!---
