@@ -5,7 +5,6 @@
 + [Ready to use scripts](https://github.com/Strategie-Digitali/Scripts-Ready)
 + [WIP Scripts](https://github.com/Strategie-Digitali/Scripts-WIP)
 + [Plugin Repositiry](https://github.com/Strategie-Digitali/Revit-Plugin)
-+ ..?
 
 ## [Department page on Noition](https://selective-vessel-c66.notion.site/Research-Development-d41ecdac5b1a436590938e3d2f468a1e?pvs=4) 
 
